@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "666a325feea40e1a48f9fda9"
+  },
+  "fecha_ventas": "2024-06-18",
+  "tipo_cerveza": "ales",
+  "cantidad_vendida": 60,
+  "unidad_medida": "unidad",
+  "precio_total": 750,
+  "cliente": {
+    "nombre": "Merly Dias",
+    "email": "merlu@gmail.com",
+    "telefono": {
+      "$numberLong": "3214762430"
+    },
+    "ciudad": "bogota"
+  },
+  "precio_unidad": "12.5"
+},
+{
+  "_id": {
+    "$oid": "666a325feea40e1a48f9fdaa"
+  },
+  "fecha_ventas": "2024-06-21",
+  "tipo_cerveza": "lager",
+  "cantidad_vendida": 120,
+  "unidad_medida": "unidad",
+  "precio_total": 1608,
+  "cliente": {
+    "nombre": "Mario Marin",
+    "email": "mariom@gmail.com",
+    "telefono": {
+      "$numberLong": "3214762431"
+    },
+    "ciudad": "bogota"
+  },
+  "precio_unidad": "13.4"
+},
+{
+  "_id": {
+    "$oid": "666a325feea40e1a48f9fdab"
+  },
+  "fecha_ventas": "2024-06-28",
+  "tipo_cerveza": "ales",
+  "cantidad_vendida": 150,
+  "unidad_medida": "unidad",
+  "precio_total": 2325,
+  "cliente": {
+    "nombre": "Andres Cortes",
+    "email": "mcortes@gmail.com",
+    "telefono": {
+      "$numberLong": "3214762432"
+    },
+    "ciudad": "bogota"
+  },
+  "precio_unidad": "15.5"
+}]
